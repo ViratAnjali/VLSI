@@ -1,0 +1,2 @@
+•	Implemented and signed off on a BUFx10 ASAP7 75T standard cell using a two-stage FinFET buffer (6-fin → 30-fin PMOS/NMOS), achieving ~10× drive strength scaling and completing schematic-to-layout flow with DRC/LVS/PEX-clean verification.
+•	Analyzed parasitic-induced post-layout delay degradation and demonstrated scalable physical design by constructing 3 and 9×9 (81-cell) Virtuoso XL arrays with shared power rails and aligned multi-fin device structures.
