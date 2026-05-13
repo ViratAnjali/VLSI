@@ -1,0 +1,87 @@
+# //  ModelSim SE 2019.1 Jan  1 2019 Linux 4.18.0-372.19.1.el8_6.x86_64
+# //
+# //  Copyright 1991-2019 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading project stuv
+# Load canceled
+# Compile of asap7sc7p5t_24_AO_LVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_AO_LVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_AO_LVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_AO_RVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_AO_RVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_AO_RVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_AO_SLVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_AO_SLVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_AO_SLVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_AO_SRAM_FF.v was successful.
+# Compile of asap7sc7p5t_24_AO_SRAM_SS.v was successful.
+# Compile of asap7sc7p5t_24_AO_SRAM_TT.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_LVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_LVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_LVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_RVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_RVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_RVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_SLVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_SLVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_SLVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_SRAM_FF.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_SRAM_SS.v was successful.
+# Compile of asap7sc7p5t_24_INVBUF_SRAM_TT.v was successful.
+# Compile of asap7sc7p5t_24_OA_LVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_OA_LVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_OA_LVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_OA_RVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_OA_RVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_OA_RVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_OA_SLVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_OA_SLVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_OA_SLVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_OA_SRAM_FF.v was successful.
+# Compile of asap7sc7p5t_24_OA_SRAM_SS.v was successful.
+# Compile of asap7sc7p5t_24_OA_SRAM_TT.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_LVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_LVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_LVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_RVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_RVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_RVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_SLVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_SLVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_SLVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_SRAM_FF.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_SRAM_SS.v was successful.
+# Compile of asap7sc7p5t_24_SEQ_SRAM_TT.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_LVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_LVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_LVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_RVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_RVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_RVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_SLVT_FF.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_SLVT_SS.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_SLVT_TT.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_SRAM_FF.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_SRAM_SS.v was successful.
+# Compile of asap7sc7p5t_24_SIMPLE_SRAM_TT.v was successful.
+# Compile of GCN.1000.syn.v was successful.
+# Compile of GCN_TB_post_syn_apr.sv was successful.
+# 62 compiles, 0 failed with no errors.
+vsim work.GCN_TB -voptargs=+acc
+# vsim work.GCN_TB -voptargs="+acc" 
+# Start time: 10:37:06 on May 03,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /home/a20330_asu/asap7_rundir/Lab4/Synthesis/GCN.1000.syn.v(6930): Module 'Dot_Product_Engine' is not defined.
+# Optimization failed
+# Error loading design
+# End time: 10:37:06 on May 03,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
